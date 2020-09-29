@@ -5,8 +5,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to be outside more than under four walls, home just for progamming, Outside; for experience and exploration.😄
 
-### Skills
-
+[![Alok's github stats](https://github-readme-stats-seven-amber.vercel.app/api?username=AlokSinghKumar&theme=synthwave)](https://github.com/AlokSinghKumar/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlokSinghKumar&layout=compact)](https://github.com/AlokSinghKumar/github-readme-stats)
 
